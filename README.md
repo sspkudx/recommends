@@ -19,7 +19,23 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 - [麻省理工大学MIT公开课6.824](https://pdos.csail.mit.edu/6.824/)<br>
   推荐理由: 分布式系统, 语言 GO
 
+## 优秀博客
 
+### 1. 前端开发
+- [拜仁的月饼](https://juejin.cn/user/483440848286439)<br>
+  推荐理由: 前端优秀博主，想做前端的同学可以看他的博客入门
+- [阮一峰](https://www.ruanyifeng.com/blog/)<br>
+  推荐理由：他的名字本身就是理由
+
+### 2. 后端开发
+
+暂略
+
+### 3. 算法
+
+#### 3.1 机器学习
+- [公众号：AI机器学习与知识图谱](https://mp.weixin.qq.com/s/Cqw7JkwpcIGlPXpe2Tbwxg)
+  推荐理由：软微学长的公众号，干货多多
 
 
 
