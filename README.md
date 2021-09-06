@@ -5,8 +5,12 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 
 - [github Issue传送门](https://github.com/sspkudx/recommends/issues/new)
 
-如果你发现了好的课程或者优秀的博客, 请提 Issue 或者 Pull request<br>  
+如果你发现了好的课程或者优秀的博客, 或者比赛, 请提 Issue 或者 Pull request<br>  
 如果你想长期加入这个团队, 一起做贡献, 也可以在Issue区留言, 留下自己的 github ID<br>  
+
+***重要的说明: 这里都是学院的再读同学或者以前的学长, 目前不接受其他外部人员加入***
+
+针对每一个推荐, 比如比赛, 或者书本, 或者某一领域的学习, 如果你想发起学习小组, 你可以自行留下联系方式或者开Issue讨论.
 
 # 订阅
 如果你想知道我们最新更新了什么文章, 欢迎在留下你的邮箱, 这样我可以在发表新博客的第一时间通过邮件发送给你, 请在 Issue 区留下你的 github 账号和你的常用邮箱, 让我们一起互相学习和讨论.  
@@ -15,9 +19,9 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 
 ## 优秀课程
 - [卡内基梅隆大学CMU公开课15445](https://15445.courses.cs.cmu.edu/fall2020/)<br>
-  推荐理由: 自己实现一个数据库, 语言 c++, 推荐人 github ID notfresh mail: notfresh@foxmail.com
+  推荐理由: 自己实现一个数据库, 语言 c++, 推荐人 github ID notfresh mail: notfresh@foxmail.com , 声明一下, 我自己还没做, 同学推荐
 - [麻省理工大学MIT公开课6.824](https://pdos.csail.mit.edu/6.824/)<br>
-  推荐理由: 分布式系统, 语言 GO,  推荐人 github ID notfresh mail: notfresh@foxmail.com
+  推荐理由: 分布式系统, 语言 GO,  推荐人 github ID notfresh mail: notfresh@foxmail.com, 声明一下, 我自己做完, 最近无计划重新学习, 有需要的可自行开一个markdown记录疑难问题和答疑, 也可以留下讨论组联系方式或者怎么加入.
 
 ## 优秀博客
 
