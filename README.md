@@ -15,9 +15,9 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 
 ## 优秀课程
 - [卡内基梅隆大学CMU公开课15445](https://15445.courses.cs.cmu.edu/fall2020/)<br>
-  推荐理由: 自己实现一个数据库, 语言 c++
+  推荐理由: 自己实现一个数据库, 语言 c++, 推荐人 github ID notfresh mail: notfresh@foxmail.com
 - [麻省理工大学MIT公开课6.824](https://pdos.csail.mit.edu/6.824/)<br>
-  推荐理由: 分布式系统, 语言 GO
+  推荐理由: 分布式系统, 语言 GO,  推荐人 github ID notfresh mail: notfresh@foxmail.com
 
 ## 优秀博客
 
