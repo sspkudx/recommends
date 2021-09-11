@@ -47,7 +47,7 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 
 # 最新比赛
 
-- [2021QQ浏览器算法比赛](https://algo.browser.qq.com/) 报名 2021, 08.15-9.22
+- [2021QQ浏览器算法比赛](https://algo.browser.qq.com/) 报名 2021, 08.15-9.22 <br>
 想要报名的可以开Issue征队友, 可以联系管理员留下联系方式上首页.
 
 
