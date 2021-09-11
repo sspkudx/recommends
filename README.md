@@ -38,8 +38,8 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 ### 3. 算法
 
 #### 3.1 机器学习
-- [公众号：AI机器学习与知识图谱](https://mp.weixin.qq.com/s/Cqw7JkwpcIGlPXpe2Tbwxg)
-  推荐理由：软微学长的公众号，干货多多
+- [公众号：AI机器学习与知识图谱](https://mp.weixin.qq.com/s/Cqw7JkwpcIGlPXpe2Tbwxg)<br>
+  - 推荐理由：软微学长的公众号，干货多多
 
 - [手写实现李航《统计学习方法》书中全部算法](https://github.com/Dod-o/Statistical-Learning-Method_Code)
   - 推荐理由: 软微学长力作, 具体是那一级不知道了, 很强! 本院开源协会的大佬
