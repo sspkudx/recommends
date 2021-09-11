@@ -27,7 +27,7 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 
 ### 1. 前端开发
 - [拜仁的月饼](https://juejin.cn/user/483440848286439)<br>
-  推荐理由: 前端优秀博主，想做前端的同学可以看他的博客入门
+  - 推荐理由: 前端优秀博主，想做前端的同学可以看他的博客入门
 - [阮一峰](https://www.ruanyifeng.com/blog/)<br>
   推荐理由：他的名字本身就是理由
 
