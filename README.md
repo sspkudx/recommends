@@ -23,6 +23,9 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 - [麻省理工大学MIT公开课6.824](https://pdos.csail.mit.edu/6.824/)<br>
   推荐理由: 分布式系统, 语言 GO,  推荐人 github ID notfresh mail: notfresh@foxmail.com, 声明一下, 我自己做完, 最近无计划重新学习
 
+## 学习资料
+- [编程指北cs-books](https://gitee.com/Marvinle/awesome-cs-books#c)<br>
+  推荐理由: 涵盖了大多数计算机经典书籍
 ## 优秀博客
 
 ### 1. 前端开发
