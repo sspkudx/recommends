@@ -18,10 +18,18 @@ github 上的地址是 [https://github.com/sspkudx/recommends](https://github.co
 # 导航
 
 ## 优秀课程
+- [吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=5362751939251912470&spm_id_from=333.337.0.0)<br>
+  推荐理由：机器学习理论入门，初学者强烈建议学习
+- [吴恩达深度学习deeplearning.ai](https://www.bilibili.com/video/BV1FT4y1E74V?from=search&seid=4614317328859986615&spm_id_from=333.337.0.0)<br>
+  推荐理由：该课程最好在看完《吴恩达机器学习系列课程》后学习，深度学习入门必备
+- [李宏毅2021春机器学习课程](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
+  推荐理由：最新的2021课程涵盖了深度学习各个领域最前沿的技术，课程对拓宽知识面有很大帮助，而且老师上课有趣，二次元的福音:fire:
 - [卡内基梅隆大学CMU公开课15445](https://15445.courses.cs.cmu.edu/fall2020/)<br>
   推荐理由: 自己实现一个数据库, 语言 c++, 推荐人 github ID notfresh mail: notfresh@foxmail.com , 声明一下, 我自己还没做, 同学推荐
 - [麻省理工大学MIT公开课6.824](https://pdos.csail.mit.edu/6.824/)<br>
   推荐理由: 分布式系统, 语言 GO,  推荐人 github ID notfresh mail: notfresh@foxmail.com, 声明一下, 我自己做完, 最近无计划重新学习
+- [卡内基梅隆大学多模态学习2020](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)<br>
+  推荐理由：MultiModal Machine Learning最新课程，涵盖深度学习多个领域的多模态，系统的了解多模态领域的框架
 
 ## 学习资料
 - [编程指北cs-books](https://gitee.com/Marvinle/awesome-cs-books#c)<br>
